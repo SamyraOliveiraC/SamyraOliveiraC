@@ -4,7 +4,7 @@
 - 🌱 Conhecimento básico em Java, C#, HTML, CSS e JavaScript.
 - 😄 Pronouns: ela/dela
 
-![Alves GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=SamyraOliveiraC&layout=compact&theme=dracula)
+![Alves GitHub stats](https://github-readme-stats.vercel.app/api?username=SamyraOliveiraC&show_icons=true&theme=dracula)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SamyraOliveiraC&layout=compact&theme=dracula)
 
 
