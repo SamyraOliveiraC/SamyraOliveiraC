@@ -10,7 +10,7 @@
 - **Linguagens:** Java | Python  
 - **Cloud:** AWS  
 - **Front-end:** HTML | CSS 
-- **Outros:** Git & GitHub  
+- **Outros:** GitHub  
 
 ---
 
