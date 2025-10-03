@@ -1,20 +1,35 @@
-## Oii! Me Chamo Samyra Costa Oliveira.
+# 👩‍💻 Samyra Costa — Desenvolvedora Júnior  
 
-Me aperfeiçoando em Java, python e AWS.
+🎓 Formada em **Análise e Desenvolvimento de Sistemas**  
+💡 Apaixonada por tecnologia, atualmente aprendendo **Java** e **Python**  
+🚀 Em busca de uma oportunidade para iniciar minha carreira na área de tecnologia  
+
 ---
 
-### 📊 Estatísticas do GitHub:
+## 🔧 Tecnologias & Ferramentas
+- **Linguagens:** Java | Python  
+- **Cloud:** AWS  
+- **Front-end:** HTML | CSS 
+- **Outros:** Git & GitHub  
+
+---
+
+## 📊 Estatísticas do GitHub
 ![Samyra GitHub stats](https://github-readme-stats.vercel.app/api?username=SamyraOliveiraC&show_icons=true&theme=dracula)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SamyraOliveiraC&layout=compact&theme=dracula)
 
 ---
 
-### 📂 Meus Repositórios Recentes:
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SamyraOliveiraC&repo=NOME_DO_REPOSITORIO&theme=dracula)](https://github.com/SamyraOliveiraC/NOME_DO_REPOSITORIO)
+## 📂 Repositórios Recentes
+<!-- Estes cards serão atualizados automaticamente pela GitHub Action -->
+<!-- NÃO APAGUE esta seção -->
+<!--START_SECTION:repos-->
+<!--END_SECTION:repos-->
 
-### 📫 Reach me on:
+---
+
+## 📫 Contato
 <div> 
   <a href="mailto:samyycos@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/samyra-oliveira-47bb3b226/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/samyraoliveirac/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
-
