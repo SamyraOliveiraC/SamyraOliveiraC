@@ -7,10 +7,10 @@
 ---
 
 ## 🔧 Tecnologias & Ferramentas
-- **Linguagens:** Java | Python  
+- **Linguagens:** Java  
 - **Cloud:** AWS  
 - **Front-end:** HTML | CSS
-- **Estudando:** Inteligência Artificial (IA)
+- **Estudando:** AWS
 - **Outros:** GitHub  
 
 ---
