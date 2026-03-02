@@ -2,6 +2,7 @@
 
 🎓 Formada em **Análise e Desenvolvimento de Sistemas**  
 🎓  Iniciei minha segunda graduação em **Ciência da Computação**
+
 💡 Apaixonada por tecnologia, atualmente aprendendo **Java** e **AWS**  
 🚀 Em busca de uma oportunidade para iniciar minha carreira na área de tecnologia  
 
