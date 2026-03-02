@@ -1,7 +1,8 @@
 # 👩‍💻 Samyra Costa — Desenvolvedora Júnior  
 
 🎓 Formada em **Análise e Desenvolvimento de Sistemas**  
-💡 Apaixonada por tecnologia, atualmente aprendendo **Java** e **Python**  
+Iniciei minha segunda graduação em **Ciência da Computação**
+💡 Apaixonada por tecnologia, atualmente aprendendo **Java** e **AWS**  
 🚀 Em busca de uma oportunidade para iniciar minha carreira na área de tecnologia  
 
 ---
@@ -10,14 +11,7 @@
 - **Linguagens:** Java  
 - **Cloud:** AWS  
 - **Front-end:** HTML | CSS
-- **Estudando:** AWS
-- **Outros:** GitHub  
-
----
-
-## 📊 Estatísticas do GitHub
-![Samyra GitHub stats](https://github-readme-stats.vercel.app/api?username=SamyraOliveiraC&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SamyraOliveiraC&layout=compact&theme=dracula)
+- **Estudando:** e Java e AWS
 
 ---
 
