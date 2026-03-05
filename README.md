@@ -56,6 +56,8 @@
     src="https://img.icons8.com/color/48/git.png" 
 />
 
+---
+
 ### 📫 Contato
 <div> 
   <a href="mailto:samyycos@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
