@@ -71,8 +71,7 @@ Me chamo Samyra da Costa Oliveira, tenho 21 anos e sou de Mauá/SP, sou formada 
 ---
 
 ### 📫 Contato
-<div> 
-  <a href="mailto:samyycos@gmail.com"><img src="https://img.icons8.com/fluency/48/gmail-new.png"></a>
-   <a href="linkedin.com/in/samyraoliveirac"><img src="https://img.icons8.com/color/48/linkedin.png"></a>
-    <a href="instagram.com/dev.samys/"><img src="https://img.icons8.com/fluency/48/instagram-new.png"></a>
-</div>
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dev.samys/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samyraoliveirac/)
+
