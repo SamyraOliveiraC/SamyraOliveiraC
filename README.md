@@ -6,7 +6,7 @@
 
 ---
 
-## 🔧 Tecnologias & Ferramentas
+### 🔧 Tecnologias & Ferramentas
 <img 
     align="left" 
     alt="HTML"
@@ -47,17 +47,16 @@
     style="padding-right: 10px;" 
     src="https://img.icons8.com/color/48/amazon-web-services.png" 
 />
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://img.icons8.com/color/48/git.png" 
+/>
 
-
-## 📂 Repositórios Recentes
-<!-- Estes cards serão atualizados automaticamente pela GitHub Action -->
-<!-- NÃO APAGUE esta seção -->
-<!--START_SECTION:repos-->
-<!--END_SECTION:repos-->
-
----
-
-## 📫 Contato
+### 📫 Contato
 <div> 
   <a href="mailto:samyycos@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/samyraoliveirac/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
