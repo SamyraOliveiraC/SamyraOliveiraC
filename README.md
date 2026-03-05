@@ -7,11 +7,7 @@
 ---
 
 ## 🔧 Tecnologias & Ferramentas
-- **Linguagens:** Java  
-- **Cloud:** AWS  
-- **Front-end:** HTML | CSS
-- **Estudando:** Java e AWS
-
+- **Linguagens:** Java | **Cloud:** AWS | **Front-end:** HTML | CSS | **Estudando:** Java e AWS
 ---
 
 ## 📂 Repositórios Recentes
