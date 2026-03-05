@@ -7,7 +7,7 @@
 ---
 
 ## 🔧 Tecnologias & Ferramentas
-- **Back-end:** Java | **Cloud:** AWS | https://img.icons8.com/color/48/html-5--v1.png HTML | CSS | **Estudando:** Java e AWS
+- **Back-end:** Java | **Cloud:** AWS | {[https://img.icons8.com/color/48/html-5--v1.png]} HTML | CSS | **Estudando:** Java e AWS
 ---
 
 ## 📂 Repositórios Recentes
