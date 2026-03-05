@@ -1,4 +1,5 @@
- 👩‍💻 Samyra Oliveira
+#👩‍💻 Samyra Oliveira
+
 **`Desenvolvedora Junior`**
 
 ---
