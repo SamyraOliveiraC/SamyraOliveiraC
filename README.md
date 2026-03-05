@@ -1,4 +1,7 @@
-# 👩‍💻 Samyra Costa — Desenvolvedora Júnior  
+# 👩‍💻 Samyra da Costa Oliveira
+`Desenvolvedora Junior`
+
+---
 
 🎓 Formada em **Análise e Desenvolvimento de Sistemas**e Iniciei minha segunda graduação em **Ciência da Computação**
 💡 Apaixonada por tecnologia, atualmente aprendendo **Java** e **AWS**  
