@@ -1,5 +1,5 @@
-# 👩‍💻 Samyra Oliveira
-`Desenvolvedora Junior`
+ 👩‍💻 Samyra Oliveira
+**`Desenvolvedora Junior`**
 
 ---
 
