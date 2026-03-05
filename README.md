@@ -33,6 +33,14 @@
 />
 <img 
     align="left" 
+    alt="Java" 
+    title="Java"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-java-is-a-general-purpose-programming-language-that-is-class-based-logo-color-tal-revivo.png" 
+/>
+<img 
+    align="left" 
     alt="AWS" 
     title="AWS"
     width="30px" 
