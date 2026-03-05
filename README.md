@@ -56,7 +56,8 @@
     src="https://img.icons8.com/color/48/git.png" 
 />
 
----
+<br/>
+<br/>
 
 ### 📫 Contato
 <div> 
