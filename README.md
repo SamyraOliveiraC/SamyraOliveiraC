@@ -4,7 +4,7 @@
 
 ---
 
- Me chamo Samyra da Costa Oliveira, tenho 21 anos e sou de Mauá/SP, sou formada Análise e Desenvolvimento de Sistemas pela Universidade São Judas Tadeu e iniciei minha segunda graduação em Ciência da Computação pela FAM Faculdade das Américas, fiz curso preparatório para AWS, quero tirar certificação da AWS e estou estudando para tentar e fiz curso de Informática Avançada. Atualmente estou estudando AWS e Java. Sou apaixonada por tecnologia, e estou tentando compartilhar meus conhecimentos para tentar ajudar quem esteja começando. 
+Me chamo Samyra da Costa Oliveira, tenho 21 anos e sou de Mauá/SP, sou formada Análise e Desenvolvimento de Sistemas pela Universidade São Judas Tadeu e iniciei minha segunda graduação em Ciência da Computação pela FAM Faculdade das Américas, fiz curso preparatório para AWS, quero tirar certificação da AWS e estou estudando para tentar e fiz curso de Informática Avançada. Atualmente estou estudando AWS e Java. Sou apaixonada por tecnologia, e estou tentando compartilhar meus conhecimentos para tentar ajudar quem esteja começando.
 
 ---
 
