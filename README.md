@@ -1,6 +1,6 @@
 # 👩‍💻 Samyra Oliveira
 
-**`Desenvolvedora Junior`**
+**`Software Engineer`**
 
 ---
 
