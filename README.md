@@ -71,7 +71,7 @@ Ooi, me chamo Samyra da Costa Oliveira, tenho 21 anos e sou de Mauá/SP, sou for
 
 ---
 
-[![Top Langs](https://vercel.app)](https://github.com)
+![Estatísticas de Linguagens](https://vercel.app)
 
 
 ---
