@@ -79,7 +79,7 @@ Ooi, me chamo Samyra da Costa Oliveira, tenho 21 anos e sou de Mauá/SP, sou for
     title="IA"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://img.icons8.com/?size=100&id=37628&format=png&color=000000" 
+    src="https://img.icons8.com/?size=100&id=37410&format=png&color=000000" 
 />
 
 <br/>
