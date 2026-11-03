@@ -73,7 +73,7 @@ Ooi, me chamo Samyra da Costa Oliveira, tenho 21 anos e sou de Mauá/SP, sou for
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-used-languages.vercel.app/your-github-username?theme=dark">
-  <img alt="Most Used Languages'" src="https://github-used-languages.vercel.app/your-github-username">
+  <img alt="Most Used Languages'" src="https://github-used-languages.vercel.app/your-github-SamyraOliveiraC">
 </picture>
 
 ---
